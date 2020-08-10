@@ -68,7 +68,7 @@ const App: React.FC = () => {
     // If any remain, Display next question
     const nextQuestion = number + 1
 
-    if (nextQuestion == TOTAL_QUESTIONS) {
+    if (nextQuestion === TOTAL_QUESTIONS) {
       setGameOver(true)
     } else {
       setNumber(nextQuestion)
