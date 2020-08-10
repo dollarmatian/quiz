@@ -25,11 +25,11 @@ jobs:
 
     # Install Dependencies
     - name: Install Dependencies
-      run: npm install
+      run: cd react-quiz && npm install
     
     # Run build
     - name: Build
-      run: npm run build
+      run: cd react-quiz && npm run build
       
       
       
