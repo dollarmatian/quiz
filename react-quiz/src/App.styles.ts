@@ -45,6 +45,7 @@ border: 2px solid #0085a3;
 padding: 5px;
 box-shadow: 0px 5px 10px rgba(0,0,0,0.25);
 text-align: center;
+margin-top: 0;
 }
 
 h1 {
@@ -70,7 +71,7 @@ h1 {
   box-shadow: 0px 5px 10px rgba (0,0,0,0.25);
   border-radius: 10px;
   height: 40px;
-  margin: 20px 0;
+  margin: 10px 0;
   padding: 0 40px;
 }
 
