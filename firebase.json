@@ -7,7 +7,7 @@
   },
   "hosting": {
     "site": "dollarmatian-quiz",
-    "public": "/react-quiz/build",
+    "public": "react-quiz/build",
     "ignore": [
       "firebase.json",
       "**/.*",
